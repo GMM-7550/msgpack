@@ -39,7 +39,7 @@ This document describes the MessagePack type system, MessagePack formats and con
       * [map format family](#map-format-family)
       * [ext format family](#ext-format-family)
       * [Timestamp extension type](#timestamp-extension-type)
-      * [UUID extension type](#uuid-extension-type)
+      * [UID extension type](#uid-extension-type)
   * [Serialization: type to format conversion](#serialization-type-to-format-conversion)
   * [Deserialization: format to type conversion](#deserialization-format-to-type-conversion)
   * [Future discussion](#future-discussion)
